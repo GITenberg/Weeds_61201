@@ -1,5 +1,8 @@
 _repo: Weeds_61201
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61201-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelley, Edith Summers
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51305
     wikipedia: https://en.wikipedia.org/wiki/Edith_Summers_Kelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61201#Weeds
 gutenberg_issued: '2020-01-19'
 gutenberg_type: Text
 identifiers:
