@@ -1,0 +1,30 @@
+_repo: Weeds_61201
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kelley, Edith Summers
+    birthdate: 1884
+    deathdate: 1956
+    gutenberg_agent_id: '51305'
+    url: http://www.gutenberg.org/2009/agents/51305
+    wikipedia: https://en.wikipedia.org/wiki/Edith_Summers_Kelley
+description: ''
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61201'
+  lccn: '23012959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tobacco farmers -- Kentucky -- Fiction'
+- !lcsh 'Rural women -- Kentucky -- Fiction'
+- !lcsh 'Farm life -- Kentucky -- Fiction'
+- !lcsh 'Tobacco farms -- Kentucky -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Fiction'
+- GITenberg
+title: Weeds
+url: http://www.gutenberg.org/ebooks/61201
